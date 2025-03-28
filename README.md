@@ -8,4 +8,4 @@ that overrides stop() to also call undeploy()
 
 the spring boot before the 1.5.13.RELEASE has this bug and will fix the next version in Milestone 1.5.x
 
-issure description:https://github.com/spring-projects/spring-boot/issues/13134
+issue description:https://github.com/spring-projects/spring-boot/issues/13134
